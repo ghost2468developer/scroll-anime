@@ -97,11 +97,6 @@ function Ba() {
 					<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M12 3a9 9 0 0 0-9 9v7c0 1.1.9 2 2 2h4v-8H5v-1c0-3.87 3.13-7 7-7s7 3.13 7 7v1h-4v8h4c1.1 0 2-.9 2-2v-7a9 9 0 0 0-9-9z"/></svg>
 					<span>Best experienced with headphones</span>
 				</span>
-				<span class="attribution">
-					<span>Made with 🎨 by <a href="https://notbigmuzzy.github.io/" target="_blank">notbigmuzzy</a></span>
-					<span style="padding:0 5px;"> | </span>
-					<span>Powered by <a href="https://metmuseum.github.io/" target="_blank">Metropolitan Museum API</a></span>
-				</span>
 			</div>
 			<div class="link-wrapper last">
 				<span id="closeLink" class="close-link"><i>×</i> Exit Fullscreen</span>
